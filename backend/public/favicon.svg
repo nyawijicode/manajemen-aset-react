@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="Sistem Informasi Manajemen Aset">
+  <rect width="64" height="64" rx="14" fill="#1D4ED8"/>
+  <path d="M20 22.5c0-2.5 2-4.5 4.5-4.5h15c2.5 0 4.5 2 4.5 4.5v3.2c0 2.5-2 4.5-4.5 4.5h-15c-2.5 0-4.5-2-4.5-4.5v-3.2Z" fill="#fff" opacity=".95"/>
+  <path d="M20 37.8c0-2.5 2-4.5 4.5-4.5h15c2.5 0 4.5 2 4.5 4.5v3.2c0 2.5-2 4.5-4.5 4.5h-15c-2.5 0-4.5-2-4.5-4.5v-3.2Z" fill="#BFDBFE"/>
+</svg>
